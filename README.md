@@ -13,4 +13,4 @@ This project uses Spotify's API to measure popularity-similarity overlap between
 
 Everything else was designed by others(*) and for those I receive no credit. More info is available in the project folder, which contains a full write-up that was used for project submission purposes.
 
-(*)The file_to_V2D function was a function made for in-class assignments that was used due to its immediate availability.
+(*)The file_to_V2D function was a function made for in-class assignments that was used due to its immediate availability for parsing data.
