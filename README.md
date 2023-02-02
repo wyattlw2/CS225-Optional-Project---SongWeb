@@ -9,6 +9,8 @@ This project uses Spotify's API to measure popularity-similarity overlap between
 
 ** Roughly half of the test cases, mostly for the stuff I wrote
 
+** Very minor contributions to Graph data structure
+
 Everything else was designed by others(*) and for those I receive no credit.
 
 More info is available in the project folder, which contains a full write-up that was used for project submission purposes.
