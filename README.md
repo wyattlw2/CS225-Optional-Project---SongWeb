@@ -1,5 +1,4 @@
 # SongWeb
-CS 225 Project -
 
 This project uses Spotify's API to measure popularity-similarity overlap between songs in a playlist. Data retrieval was done in Python using the spotipy library. Commit history may not have been carried over so to state solely my contributions, I coded:
 
